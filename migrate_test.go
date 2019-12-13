@@ -3,8 +3,8 @@ package vfs
 import (
 	"testing"
 
+	"github.com/ailox/migrate-vfs/testdata"
 	st "github.com/golang-migrate/migrate/source/testing"
-	"github.com/migrate-vfs/testdata"
 )
 
 func Test(t *testing.T) {
